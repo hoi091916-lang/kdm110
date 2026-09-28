@@ -1,0 +1,6 @@
+{
+  "name": "Contra Quiz Commando - Đấu Trường Tri Thức",
+  "description": "Game Contra kinh điển kết hợp giải câu hỏi trắc nghiệm vượt rào phong ấn, nâng cấp súng Spread/Laser, nhặt Nấm hồi sinh và hệ thống quản lý câu hỏi phong phú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
