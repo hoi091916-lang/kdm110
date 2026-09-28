@@ -6,6 +6,9 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     base: './',
+    define: {
+      __VITE_IS_BUILT__: JSON.stringify(true),
+    },
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
